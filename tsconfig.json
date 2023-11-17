@@ -6,7 +6,7 @@
     "lib": [
       "ESNext"
     ],
-    "rootDirs": [                             /* List of root folders whose combined content represents the structure of the project at runtime. */
+    "rootDirs": [                             /* List of root folders whose combined content represemmmnts the structure of the project at runtime. */
       "./src",
       "./test"
     ],
